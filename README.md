@@ -18,4 +18,4 @@ Project Report (Contains Diagrams):
 https://docs.google.com/document/d/1kNWyLnLfw-SrsjuAigi6whnypoVP7LHmdu2pQZrw-l4/edit?usp=sharing
 
 Video:
-https://youtu.be/R0r_ZwvTI7Q# 3005-Final-Project-Ryan-Diep
+https://youtu.be/_1svDJqwLGk
