@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "/Users/ryandiep/Downloads/postgresql-42.7.3.jar"
+    ]
+}
